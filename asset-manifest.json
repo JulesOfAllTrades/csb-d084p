@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://julesofalltrades.github.io/csb-d084p/static/css/main.2fb9a91e.chunk.css",
+    "main.js": "https://julesofalltrades.github.io/csb-d084p/static/js/main.1769dad8.chunk.js",
+    "main.js.map": "https://julesofalltrades.github.io/csb-d084p/static/js/main.1769dad8.chunk.js.map",
+    "runtime-main.js": "https://julesofalltrades.github.io/csb-d084p/static/js/runtime-main.2b40440c.js",
+    "runtime-main.js.map": "https://julesofalltrades.github.io/csb-d084p/static/js/runtime-main.2b40440c.js.map",
+    "static/js/2.9746ef36.chunk.js": "https://julesofalltrades.github.io/csb-d084p/static/js/2.9746ef36.chunk.js",
+    "static/js/2.9746ef36.chunk.js.map": "https://julesofalltrades.github.io/csb-d084p/static/js/2.9746ef36.chunk.js.map",
+    "index.html": "https://julesofalltrades.github.io/csb-d084p/index.html",
+    "static/css/main.2fb9a91e.chunk.css.map": "https://julesofalltrades.github.io/csb-d084p/static/css/main.2fb9a91e.chunk.css.map",
+    "static/js/2.9746ef36.chunk.js.LICENSE.txt": "https://julesofalltrades.github.io/csb-d084p/static/js/2.9746ef36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b40440c.js",
+    "static/js/2.9746ef36.chunk.js",
+    "static/css/main.2fb9a91e.chunk.css",
+    "static/js/main.1769dad8.chunk.js"
+  ]
+}
